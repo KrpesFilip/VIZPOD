@@ -4,3 +4,4 @@ https://github.com/CraigKelly/steam-data/blob/master/analysis/games-features-edi
 initial: https://www.kaggle.com/datasets/thedevastator/global-video-game-sales/data
 DATASETS LIST: https://github.com/leomaurodesenv/game-datasets?tab=readme-ov-file#dataset
 steam game stats https://www.kaggle.com/datasets/mexwell/steamgames
+hd decks https://www.kaggle.com/datasets/sarahcrowder/8-years-of-hearthstone-decks
