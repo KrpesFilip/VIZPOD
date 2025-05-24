@@ -5,3 +5,5 @@ initial: https://www.kaggle.com/datasets/thedevastator/global-video-game-sales/d
 DATASETS LIST: https://github.com/leomaurodesenv/game-datasets?tab=readme-ov-file#dataset
 steam game stats https://www.kaggle.com/datasets/mexwell/steamgames
 hd decks https://www.kaggle.com/datasets/sarahcrowder/8-years-of-hearthstone-decks
+
+smite god stats https://www.kaggle.com/datasets/mattop/smite-god-base-statistics-data
