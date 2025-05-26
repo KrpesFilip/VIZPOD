@@ -7,3 +7,7 @@ steam game stats https://www.kaggle.com/datasets/mexwell/steamgames
 hd decks https://www.kaggle.com/datasets/sarahcrowder/8-years-of-hearthstone-decks
 
 smite god stats https://www.kaggle.com/datasets/mattop/smite-god-base-statistics-data
+
+osnovne funkcionalnosti - osnovni prikaz
+napredne funkcionalnosti - prikaz bilo cega ne na default screenu (filteri etc.)
+osnovna ponašanja - sve sta interagira s korisnikom click etc
