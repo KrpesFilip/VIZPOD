@@ -11,3 +11,4 @@ smite god stats https://www.kaggle.com/datasets/mattop/smite-god-base-statistics
 osnovne funkcionalnosti - osnovni prikaz
 napredne funkcionalnosti - prikaz bilo cega ne na default screenu (filteri etc.)
 osnovna ponašanja - sve sta interagira s korisnikom click etc
+smite svg https://icons8.com/icons/set/smite-logo
